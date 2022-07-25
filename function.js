@@ -1,6 +1,6 @@
 
     
-const usuarios = require('../database/usuarios.json');
+const usuarios = require('./database/usuario.json');
 const fs = require('fs');
 const path = require('path');
 
